@@ -23,25 +23,10 @@ After the event, Graham received some feedback that seemed to indicate again som
 
 
 ###15/09/2016 Negative ions conference###
-**Introduction.** It has become customary to enrich scientific conferences with social and cultural activities, such as dinners[^1] and visits to tourist attractions[^2]. This is thought to foster interaction by increasing intermingling, randomising group composition and reducing inhibitions[^3]. We explore here the effectiveness of a display of Morris dancing, a form of folk dancing of the English tradition[^4], for the entertainment of scientific delegates to a conference about Negative Ions[^5] held in Oxford, UK.  
-**Results.** A number of dances were performed in the Trinity College courtyard[^8] by a roughly equal admixture of Oxford City Morris Men and Oxford University Morris Men, long-established local Morris sides of proven expertise[^9]. The dancers were subsequently joined by an audience of conference delegates emerging from their social dinner, in which an unquantified amount of alcohol-containing beverages had been consumed[^10]. Due to the outdoor location and specific astronomical arrangement of the event[^11], the performance took place in conditions of very limited visibility. Reception graded on a 5-point Likert scale[^12] was deemed overall positive[^13], although definitive confirmation will rest upon the organisers' willingness to repeat the event in the future[^14]. An unexpected observation was the gradual shifting of the set relative to the musicians. We speculate that the darkness may have limited the visual cues available to the dancers[^15], the Negative Ions may have exerted a lateral electromagnetic pull[^16], or the musicians may have covertly relocated mid-dance for comedic purposes[^17].  
+**Introduction.** It has become customary to enrich scientific conferences with social and cultural activities, such as dinners<sup>1</sup> and visits to tourist attractions<sup>2</sup>. This is thought to foster interaction by increasing intermingling, randomising group composition and reducing inhibitions<sup>3</sup>. We explore here the effectiveness of a display of Morris dancing, a form of folk dancing of the English tradition<sup>4</sup>, for the entertainment of scientific delegates to a conference about Negative Ions<sup>5</sup> held in Oxford, UK.  
+**Results.** A number of dances were performed in the Trinity College courtyard<sup>6</sup> by a roughly equal admixture of Oxford City Morris Men and Oxford University Morris Men, long-established local Morris sides of proven expertise<sup>7</sup>. The dancers were subsequently joined by an audience of conference delegates emerging from their social dinner, in which an unquantified amount of alcohol-containing beverages had been consumed<sup>8</sup>. Due to the outdoor location and specific astronomical arrangement of the event<sup>9</sup>, the performance took place in conditions of very limited visibility. Reception graded on a 5-point Likert scale<sup>10</sup> was deemed overall positive<sup>11</sup>, although definitive confirmation will rest upon the organisers' willingness to repeat the event in the future<sup>12</sup>. An unexpected observation was the gradual shifting of the set relative to the musicians. We speculate that the darkness may have limited the visual cues available to the dancers<sup>13</sup>, the Negative Ions may have exerted a lateral electromagnetic pull<sup>14</sup>, or the musicians may have covertly relocated mid-dance for comedic purposes<sup>15</sup>.  
 **Conclusions.** We propose that our evidence supports the suitability of Morris dancing performances to entertain academics during social events. In order to replicate the successful results presented in this case study, we recommend that the variables are kept as close as possible to those hereby presented, namely 1) fairly intoxicated audiences and 2) barely visible dancers.  
 
-[^1]: With lots of wine. This is where your charity money goes. 
-[^2]: Ask Stan about the mosquito museum.
-[^3]: Social drinking evening at conferences is the scientist's Vegas.
-[^4]: Sharp, C. J., & Herbert, C. M. The Morris Book: A History of Morris Dancing with a Description of Eleven Dances as Performed by the Morris-Men of England (London: Novello, 1907).
-[^5]: http://www.nibs2016.org/ You thought this was going to be some nerdy ion joke, admit it.
-[^8]: Possibly: we got lost at some point.
-[^9]: Citation needed.
-[^10]: Eyeball suggests 4 units/person average, on a power law distribution.
-[^11]: Moulton, F. R. An Introduction to Celestial Mechanics, Second Revised Edition (New York: Dover, 1970)
-[^12]: 1: jubilation, exaltation, offers of free beer; 2: general agreeable demeanour, occasional hand clap; 3: willing eye contact; 4: non-violent avoidance; 5: profanity, general abuse, threats of stick-shoving, hankie-strangling and beating to death with melodeons.
-[^13]: Statistics: eyeball (see ^10^).
-[^14]: Thus increasing the statistical power dramatically.
-[^15]: Unlikely, as we do the same in daylight.
-[^16]: Are the bells ferromagnetic? Or are the dancers positively charged?
-[^17]: Wouldn't put it past them. (Unless they put themselves past _it_ by covertly relocating mid-dance.)
 
 
 ###27/08/2016 The wedding in Eynsham###
